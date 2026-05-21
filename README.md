@@ -1,4 +1,4 @@
-# LLMKit
+# iOS-LLMKit
 
 A Swift orchestration layer for on-device LLM inference via [LlamaSwift](https://github.com/EinarInCanada/LlamaSwift). Manages the model lifecycle, serialises concurrent generation requests, assembles chat-template prompts, and provides an on-device ASR path with a system fallback.
 
